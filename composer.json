@@ -31,13 +31,7 @@
     "autoload": {
         "psr-4": {
             "Google\\": "src/"
-        },
-        "files": [
-            "src/aliases.php"
-        ],
-        "classmap": [
-            "src/aliases.php"
-        ]
+        }
     },
     "extra": {
         "branch-alias": {
